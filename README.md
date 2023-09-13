@@ -19,3 +19,6 @@ Python keras CNN classification of [36 handwritten Kyrgyz letters](https://www.k
     ├─requirements.txt
     ├─...
 ```
+
+# License
+This software is licensed under the [MIT License](LICENSE).
